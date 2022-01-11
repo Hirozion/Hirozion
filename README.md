@@ -19,6 +19,15 @@
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> To connect with me</h2></summary>
+<p align="center">
+<a href="https://twitter.com/deprez_martin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulmahesh62" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahulmahesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulmahesh" height="30" width="40" /></a>
+<a href="https://instagram.com/_rahulmahesh62_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rahulmahesh62_" height="30" width="40" /></a>
+<a href="https://hashnode.com/@rahulmahesh62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rahulmahesh62" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rahulmahesh62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rahulmahesh62" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rahulmahesh62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahulmahesh62" height="30" width="40" /></a>
+
+</p>
                 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1450319441/51/facepalm.png?1450319441" align="center"
                 width="28" /> My Github Stats</h2> </summary>
