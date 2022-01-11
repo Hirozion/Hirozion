@@ -30,4 +30,4 @@
 </p>
                 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1450319441/51/facepalm.png?1450319441" align="center"
-                 /> My Github Stats</h2> </summary>
+                 width="28"  /> My Github Stats</h2> </summary>
