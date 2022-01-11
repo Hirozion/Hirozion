@@ -22,7 +22,7 @@
  src="https://media3.giphy.com/media/YHvQ5O5TkGmIhg9BTA/giphy.gif?cid=ecf05e47uqcjq35fpg7e91gl7indl3ntpldxq541m1mv8x6w&rid=giphy.gif&ct=g" width="40%"/></p>
  
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
-                width="28" /> To connect with me</h2></summary>
+               /> To connect with me</h2></summary>
 <p align="center">
 <a href="https://twitter.com/deprez_martin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulmahesh62" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/martin-deprez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulmahesh" height="30" width="40" /></a>
