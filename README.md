@@ -5,13 +5,12 @@
  
  <p align="center">I'm a student in IT<br/> specialize in Cybersecurity.<br> I also love learning new things .<br></p><br/>
 
-Here are some ideas to get you started:
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1457563042/312/doge.png?1457563042" align="center"
                 width="28" /> What I currently do</h2></summary>
 
 - 🔭 I’m currently working on TryHackMe Path
-- :point_right:  [TryHackMe_Profil](https://tryhackme.com/p/hirozion)
+- :point_right: My [TryHackMe_Profil](https://tryhackme.com/p/hirozion)
 - 🌱 I’m currently learning Cybersecurity at Henallux IESN.
 - 🤔 I’m looking for help with amazon AWS, container.
 - 😄 Pronouns: he/him
