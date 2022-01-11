@@ -5,9 +5,8 @@
  
  <p align="center">I'm a student in IT<br/> specialize in Cybersecurity.<br> I also love learning new things .<br></p><br/>
 
-
-<h2 align="center">What I currently do</h2>
-<p align="center">  <img src="https://emojis.slackmojis.com/emojis/images/1575409644/7248/baby-yoda-soup.gif?1575409644 "width="40" height="40"/> 
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1575409644/7248/baby-yoda-soup.gif?1575409644" align="center"
+                width="28" /> What I currently do<</h2></summary>
 
 - 🔭 I’m currently working on TryHackMe Path
 - :point_right: My [TryHackMe_Profil](https://tryhackme.com/p/hirozion)
