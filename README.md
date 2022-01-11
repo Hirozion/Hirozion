@@ -7,16 +7,14 @@
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1575409644/7248/baby-yoda-soup.gif?1575409644" align="center"
                 width="40" /> What I currently do</h2></summary>
-
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
-                width="28" /> To connect with me</h2></summary>
-
+<p align="center"
 - 🔭 I’m currently working on TryHackMe Path
 - :point_right: My [TryHackMe_Profil](https://tryhackme.com/p/hirozion)
 - 🌱 I’m currently learning Cybersecurity at Henallux IESN.
 - 🤔 I’m looking for help with amazon AWS, container.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
+</p>
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="bootstrap" width="40" height="40"/> </a>
