@@ -16,8 +16,11 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
- 
-<h2 align="center">test</h2>
+<h2 align="center">Languages and Tools</h2>
+<p align="center"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="bootstrap" width="40" height="40"/> </a>
+
+
+<h2 align="center">test
  
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> To connect with me</h2></summary>
