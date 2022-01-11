@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Cybersecurity at Henallux IESN. <br>
 - 🤔 I’m looking for help with amazon AWS, container. <br>
 - 😄 Pronouns: he/him <br>
-- ⚡ Fun fact: top 1 %soon <br>
+- ⚡ Fun fact: top 1% soon <br>
 </p></br>
 
 <h2 align="center">Languages and Tools</h2>
