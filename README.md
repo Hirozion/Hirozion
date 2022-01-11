@@ -7,7 +7,7 @@
 
 <p align="center">
 - 🔭 I’m currently working on TryHackMe Path <br>
-- :point_right: My [TryHackMe_Profil](https://tryhackme.com/p/hirozion) <br>
+- :point_right: My [profil_tryhackme](https://tryhackme.com/p/hirozion)<br>
 - 🌱 I’m currently learning Cybersecurity at Henallux IESN. <br>
 - 🤔 I’m looking for help with amazon AWS, container. <br>
 - 😄 Pronouns: he/him <br>
