@@ -21,9 +21,6 @@
  
  this section is still on works 
  
- <p align="center" ><img 
- src=" https://giphy.com/gifs/LeipzigerGruppe-YHvQ5O5TkGmIhg9BTA" width="40%"/></p>
- 
 <br/>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
