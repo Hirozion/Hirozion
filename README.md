@@ -19,7 +19,8 @@
 <h2 align="center">Languages and Tools</h2>
 <p align="center"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://store-images.s-microsoft.com/image/apps.37972.13510798882847238.aaaa73f1-0fc5-480b-8619-538d563b087a.494567bd-9177-4350-b15c-f9b823cb508c?mode=scale&q=90&h=300&w=300" alt="bootstrap" width="40" height="40"/> 
  
-
+Section still on works be patient...
+ 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> To connect with me</h2></summary>
 <p align="center">
