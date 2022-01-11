@@ -6,7 +6,7 @@
  <p align="center">I'm a student in IT<br/> specialize in Cybersecurity.<br> I also love learning new things .<br></p><br/>
 
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1457563042/312/doge.png?1457563042" align="center"
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1575409644/7248/baby-yoda-soup.gif?1575409644" align="center"
                 width="28" /> What I currently do</h2></summary>
 
 - 🔭 I’m currently working on TryHackMe Path
@@ -15,4 +15,10 @@
 - 🤔 I’m looking for help with amazon AWS, container.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
-- My [TryHackMe_Profil](https://tryhackme.com/p/hirozion)
+
+
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
+                width="28" /> To connect with me</h2></summary>
+                
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1450319441/51/facepalm.png?1450319441" align="center"
+                width="28" /> My Github Stats</h2> </summary>
