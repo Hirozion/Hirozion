@@ -28,6 +28,4 @@
 <a href="https://www.linkedin.com/in/martin-deprez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulmahesh" height="30" width="40" /></a>
 <a href="https://www.instagram.com/martindeprez1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rahulmahesh62_" height="30" width="40" /></a>
 </p>
-                
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1450319441/51/facepalm.png?1450319441" align="center"
-                 width="28"  /> My Github Stats</h2> </summary>
+               
