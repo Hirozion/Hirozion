@@ -2,6 +2,8 @@
 
 <p align="center" ><img 
  src="https://media1.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif?cid=ecf05e47wfkob2ryj58yfinte3gv1crgwo5qfd77ocia5aeo&rid=giphy.gif&ct=g" width="40%"/></p>
+ 
+ <p align="center">I'm a student in IT.<br/> specialize in Cybersecurity.<br> I also love learning new things .<br></p><br/>
 
 Here are some ideas to get you started:
 
