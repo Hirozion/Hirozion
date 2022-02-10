@@ -15,7 +15,8 @@
 <h2 align="center">Languages and Tools</h2>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> <img src="https://blog.zenika.com/wp-content/uploads/2017/07/metasploit-1.png" alt="metasploit" width="40" height="40"/> </a>
-<br/>
+<a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://www.linuxadictos.com/wp-content/uploads/nmap-logo-1024x597.jpg.webp" alt="nmap" width="40" height="40"/> </a>
+
 <br/>
  
 
