@@ -14,10 +14,8 @@
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="bootstrap" width="40" height="40"/> </a>
+ <p align="center"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="bootstrap" width="40" height="40"/> </a>
 
 
-<h2 align="center">aera still on works
- <p align="center" ><img 
- src="https://media3.giphy.com/media/YHvQ5O5TkGmIhg9BTA/giphy.gif?cid=ecf05e47uqcjq35fpg7e91gl7indl3ntpldxq541m1mv8x6w&rid=giphy.gif&ct=g" width="40%"/></p>
  
 
