@@ -17,7 +17,8 @@
 <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> <img src="https://blog.zenika.com/wp-content/uploads/2017/07/metasploit-1.png" alt="metasploit" width="40" height="40"/> </a>
 <a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://www.linuxadictos.com/wp-content/uploads/nmap-logo-1024x597.jpg.webp" alt="nmap" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/optim/i/edit/ne/2020/02/powershell_logo_620__w630.jpg" alt="PowerShell" width="40" height="40"/> </a>
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://blog.cellenza.com/wp-content/uploads/2017/01/PowerShell_5.0_icon.png" alt="PowerShell" width="40" height="40"/> </a>
+<a href="https://linuxconfig.org/bash-scripting-tutorial-for-beginners" target="_blank" rel="noreferrer"> <img src="https://blog.desdelinux.net/wp-content/uploads/2019/01/bash-logo.jpg.webp" alt="Bash" width="40" height="40"/> </a>
 
 <br/>
  
