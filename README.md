@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning Cybersecurity at Henallux IESN. <br>
 - 🤔 I’m looking for help with amazon AWS, container. <br>
 - ⚡ Fun fact: top 1% soon <br>
+-  <img src="https://tryhackme-badges.s3.amazonaws.com/hirozion.png" alt="TryHackMe">
 </p></br>
 
 <h2 align="center">Languages and Tools</h2>
